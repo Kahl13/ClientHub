@@ -1,0 +1,15 @@
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CopyComplete
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Users\kybaartman\source\repos\ClientMS\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll

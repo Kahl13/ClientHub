@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vczb77HXEJQi4OzkKhSCPa22XlzN+XTf2dvP8ii1YIXLe7jDUqEvwlsV9fn3UdprK6+FlYimwdtlJZfQa31bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kybaartman\\source\\repos\\ClientMS\\BaseLibrary\\BaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kybaartman\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\kybaartman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kybaartman\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\kybaartman\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\kybaartman\source\repos\ClientMS\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
